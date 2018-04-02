@@ -1,0 +1,18 @@
+{
+  "name": "directory-generator",
+  "version": "1.0.0",
+  "description": "A simple tool for generating a text representation of a directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "generate-text-directory": "index.js"
+  },
+  "keywords": [],
+  "author": "Jason Rodriguez <jason@frenteventures.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  }
+}
